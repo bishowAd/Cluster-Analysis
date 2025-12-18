@@ -1,0 +1,1 @@
+This project analyzes student exam performance data to identify distinct groups of students based on their study habits, sleep patterns, attendance, and academic performance. The goal is to discover natural groupings in data that can help educators understand different student profiles and potentially tailor interventions or support strategies.
