@@ -80,18 +80,6 @@ All five features standardized with `StandardScaler` before clustering.
 
 ---
 
-## Evaluation Metrics
-
-| Metric | K-Means | Hierarchical |
-|---|---|---|
-| Silhouette Score | — | — |
-| Davies-Bouldin Index | — | — |
-| Calinski-Harabasz Index | — | — |
-
-> *Scores populate when the notebook is run. Higher Silhouette and Calinski-Harabasz scores are better; lower Davies-Bouldin is better.*
-
----
-
 ##Tech Stack
 
 | Tool | Purpose |
